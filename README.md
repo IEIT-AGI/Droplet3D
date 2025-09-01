@@ -8,7 +8,7 @@
 
 ## ✈️ Introduction
 
-**Droplet3D** is a project exploring high-order spatio-temporal consistency in image-to-MV generation. It is trained on Droplet3D-4M. The model supports canonical view alignment as well as the image-to-MV generation, and demonstrates potential for 3D consistency.
+**Droplet3D** addresses data scarcity in 3D generation by leveraging videos as auxiliary supervision signals. Videos provide multi-view information that imposes spatial consistency, and their rich semantics help the generated content better align with text prompts. The work introduces Droplet3D-4M, a large-scale video dataset with multi-view annotations, and Droplet3D, a generative model that supports both image and dense text inputs. Extensive experiments show the approach yields spatially consistent and semantically plausible results and offer potential for scene-level applications, highlighting the beneficial role of video priors in 3D creation.
 
 <br>
 
