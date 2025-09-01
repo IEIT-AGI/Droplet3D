@@ -21,7 +21,7 @@
 
 ## ✈️ Introduction
 
-**Droplet3D** addresses data scarcity in 3D generation by leveraging videos as auxiliary supervision signals. Videos provide multi-view information that imposes spatial consistency, and their rich semantics help the generated content better align with text prompts. The work introduces Droplet3D-4M, a large-scale video dataset with multi-view annotations, and Droplet3D, a generative model that supports both image and dense text inputs. Extensive experiments show the approach yields spatially consistent and semantically plausible results and offer potential for scene-level applications, highlighting the beneficial role of video priors in 3D creation. For more details, please see our project page https://dropletx.github.io and technical report: and https://arxiv.org/abs/2508.20470.
+**Droplet3D** addresses data scarcity in 3D generation by leveraging videos as auxiliary supervision signals. Videos provide multi-view information that imposes spatial consistency, and their rich semantics help the generated content better align with text prompts. The work introduces Droplet3D-4M, a large-scale video dataset with multi-view annotations, and Droplet3D, a generative model that supports both image and dense text inputs. Extensive experiments show the approach yields spatially consistent and semantically plausible results and offer potential for scene-level applications, highlighting the beneficial role of video priors in 3D creation. For more details, please see our project page https://dropletx.github.io and technical report https://arxiv.org/abs/2508.20470.
 
 <br>
 
