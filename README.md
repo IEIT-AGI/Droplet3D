@@ -10,7 +10,7 @@
   <a href="https://dropletx.github.io/"><img src="https://img.shields.io/static/v1?label=DropletX&message=Project&color=purple"></a> &ensp;
   <a href="https://huggingface.co/papers/2503.06053"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
   <a href="https://huggingface.co/datasets/DropletX/Droplet3D-4M"><img src="https://img.shields.io/static/v1?label=Droplet3D-4M&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/models/DropletX/Droplet3D-5B"><img src="https://img.shields.io/static/v1?label=Droplet3D-5B&message=HuggingFace&color=yellow"></a>
+  <a href="https://huggingface.co/DropletX/Droplet3D-5B"><img src="https://img.shields.io/static/v1?label=Droplet3D-5B&message=HuggingFace&color=yellow"></a>
 </p>
 
 
