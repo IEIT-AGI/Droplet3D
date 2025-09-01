@@ -12,6 +12,13 @@
 
 <br>
 
+
+<p align="center">
+  English | <a href="README_zh.md">简体中文</a>
+</p>
+
+
+
 ## 🚀 Installation
 **Follow the steps below to set up the environment for our project.**
 
