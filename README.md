@@ -1,7 +1,7 @@
 <div align="center">
 
 # Droplet3D
-English | [简体中文](README_zh-CN.md)
+English 
 </div>
 
 <br>
