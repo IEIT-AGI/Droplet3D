@@ -4,6 +4,12 @@
 
 </div>
 
+<p align="center">
+  简体中文 | <a href="README.md">English</a>
+</p>
+
+
+
 <br>
 
 ## ✈️ Introduction
@@ -12,9 +18,7 @@
 
 <br>
 
-<p align="center">
-  简体中文 | <a href="README.md">English</a>
-</p>
+
 
 
 ## 🚀 安装
