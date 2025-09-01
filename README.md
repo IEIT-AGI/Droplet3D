@@ -166,6 +166,20 @@ This project leverages the following open-source frameworks:
 
 <br>
 
+## Citation
+
+🌟 If you find our work helpful, please leave us a star and cite our paper.
+
+```
+@article{li2025droplet3d,
+      title={Droplet3D: Commonsense Priors from Videos Facilitate 3D Generation},
+      author={Li, Xiaochuan and Du, Guoguang and Zhang, Runze and Jin, Liang and Jia, Qi and Lu, Lihua and Guo, Zhenhua and Zhao, Yaqian and Liu, Haiyang and Wang, Tianqi and Li, Changsheng and Gong, Xiaoli and Li, Rengang and Fan, Baoyu},
+      journal={arXiv preprint arXiv:2508.20470},
+      year={2025}
+    }
+```
+
+
 ## ☎️ Contact us
 If you have any questions, comments, or suggestions, please contact us at [zrzsgsg@gmail.com](mailto:zrzsgsg@gmail.com).
 
