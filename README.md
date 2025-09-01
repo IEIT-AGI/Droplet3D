@@ -1,7 +1,7 @@
 <div align="center">
 
 # Droplet3D
-English 
+
 </div>
 
 <br>
