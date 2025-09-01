@@ -163,6 +163,7 @@ the viewer to see the complete, full-body perspective before the video ends."
 This project leverages the following open-source frameworks:
 + [**CogVideoX-Fun**](https://github.com/aigc-apps/CogVideoX-Fun)
 + [**CogVideoX**](https://github.com/THUDM/CogVideo)
++ [**DropletVideo**](https://github.com/IEIT-AGI/DropletVideo)
 
 <br>
 
